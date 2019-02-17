@@ -1,1 +1,1 @@
-myThirdText
+MyThirdText
